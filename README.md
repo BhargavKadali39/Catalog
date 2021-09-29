@@ -7,3 +7,6 @@ Since Catalog also supports The Pomodoro technique and has a clean and responsiv
 
 Catalog has many uses like Pomodoro technique, time tracker, task manager and so on ,it depends upon how you use it .
 As well as It’s SEO friendly and increases CTR on SEO links.
+
+* Implementation  
+At beginning the path we decided to go seemed to be easy , then the real obstacles started to appear ,the things we encountered was related to local storage and notifications , somehow we managed to overcome it with our teamwork and web surfing skills , later on from the journey we learned many things, how to get through difficult times and manage work burnouts
